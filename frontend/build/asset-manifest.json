@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2d91aff.css",
+    "main.js": "/static/js/main.1bf5152e.js",
+    "static/media/—Slidesdocs—creative green creativity abstract business_9d8bf0f76f.jpg": "/static/media/—Slidesdocs—creative green creativity abstract business_9d8bf0f76f.3ffe72fdd5734f5a6ce6.jpg",
+    "index.html": "/index.html",
+    "main.e2d91aff.css.map": "/static/css/main.e2d91aff.css.map",
+    "main.1bf5152e.js.map": "/static/js/main.1bf5152e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d91aff.css",
+    "static/js/main.1bf5152e.js"
+  ]
+}

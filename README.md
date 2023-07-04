@@ -1,2 +1,1 @@
-# ChatOasis
-lets chat
+# chat-app
